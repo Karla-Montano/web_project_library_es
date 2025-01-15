@@ -356,9 +356,11 @@
 }
 
 .footer__column_content_hours {
+  margin-left: auto;
 }
 
 .footer__column_content_social {
+  margin-left: 80px;
 }
 
 .footer__logo {
@@ -368,9 +370,9 @@
 }
 
 .footer__column-heading {
-  padding-top: 0;
-  padding-bottom: 20px;
-  margin: 0;
+  padding: 0;
+  margin-bottom: 20px;
+  margin-top: 0;
 }
 .footer__list {
   /* El siguiente código elimina los estilos predeterminados del navegador para las listas */
@@ -396,5 +398,5 @@
 .footer__copyright {
   display: flex;
   align-self: flex-end;
-  padding-top: 100px;
+  margin-top: 100px;
 }
