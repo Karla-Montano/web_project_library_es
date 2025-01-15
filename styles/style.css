@@ -352,19 +352,13 @@
   display: flex;
 }
 .footer__column {
-  display: flex;
-  align-items: flex-start;
   padding-top: 0%;
 }
 
 .footer__column_content_hours {
-  position: absolute;
-  right: 295.22px;
 }
 
 .footer__column_content_social {
-  position: absolute;
-  right: 80px;
 }
 
 .footer__logo {
